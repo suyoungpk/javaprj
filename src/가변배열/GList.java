@@ -1,5 +1,5 @@
 package 가변배열;
-//여기다가 충돌코드 작성!
+//여기다가 충돌코드 작성!**
 public class GList<길동> {
 	private 길동[] data;
 	private int index;
